@@ -321,7 +321,7 @@
 				ORGANIZATIONNAME = "University of Gothenburg";
 				TargetAttributes = {
 					66EA72C817EB1585009B8350 = {
-						DevelopmentTeam = 5KQ3D3FG5H;
+						DevelopmentTeam = 3M328Q89SP;
 					};
 				};
 			};
@@ -584,11 +584,11 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
-				DEVELOPMENT_TEAM = 5KQ3D3FG5H;
+				DEVELOPMENT_TEAM = 3M328Q89SP;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoDMG/AutoDMG-Prefix.pch";
 				INFOPLIST_FILE = "AutoDMG/AutoDMG-Info.plist";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_BUNDLE_IDENTIFIER = "se.gu.it.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = AutoDMG;
 				WRAPPER_EXTENSION = app;
@@ -600,11 +600,11 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
-				DEVELOPMENT_TEAM = 5KQ3D3FG5H;
+				DEVELOPMENT_TEAM = 3M328Q89SP;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoDMG/AutoDMG-Prefix.pch";
 				INFOPLIST_FILE = "AutoDMG/AutoDMG-Info.plist";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_BUNDLE_IDENTIFIER = "se.gu.it.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = AutoDMG;
 				WRAPPER_EXTENSION = app;
